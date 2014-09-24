@@ -4,8 +4,20 @@
 		"selected_items":
 		[
 			[
+				"padd",
+				"padding-top"
+			],
+			[
 				"mar",
-				"margin-top"
+				"margin-left"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"back",
+				"background-size"
 			],
 			[
 				"bxs",
@@ -40,16 +52,8 @@
 				"font-size"
 			],
 			[
-				"back",
-				"background"
-			],
-			[
 				"marg",
 				"margin"
-			],
-			[
-				"padd",
-				"padding"
 			],
 			[
 				"bord",
@@ -66,10 +70,6 @@
 			[
 				"max",
 				"max-width"
-			],
-			[
-				"bor",
-				"border-bottom"
 			],
 			[
 				"col",
@@ -519,6 +519,22 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 4930,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "style.less",
+			"settings":
+			{
+				"buffer_size": 2572,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -751,6 +767,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"photo",
+			"jpg",
 			"nav",
 			"bx-pager",
 			"c-intro",
@@ -872,13 +890,76 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 4930,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3662,
+								3662
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1475.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		},
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 1,
+					"file": "style.less",
+					"settings":
+					{
+						"buffer_size": 2572,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								880,
+								880
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/LESS/LESS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 490.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -910,7 +991,7 @@
 		"cols":
 		[
 			0.0,
-			0.83855180824,
+			0.657185106995,
 			1.0
 		],
 		"rows":
