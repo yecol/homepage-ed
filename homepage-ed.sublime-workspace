@@ -523,7 +523,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 4930,
+				"buffer_size": 7734,
 				"line_ending": "Unix"
 			}
 		},
@@ -676,6 +676,8 @@
 	},
 	"file_history":
 	[
+		"/Users/Yecol/Workspace/git-repo/homepage-ed/p/xu2012optimizing.bib",
+		"/Users/Yecol/Workspace/git-repo/homepage-ed/xu2012optimizing.html",
 		"/Users/Yecol/Workspace/git-repo/smartcity/assets/css/style.css",
 		"/Users/Yecol/Workspace/git-repo/smartcity/smartcity.sublime-project",
 		"/Users/Yecol/Library/Application Support/Sublime Text 2/Packages/Less2Css/less2css.sublime-settings",
@@ -898,15 +900,15 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 4930,
+						"buffer_size": 7734,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3662,
-								3662
+								7726,
+								7726
 							]
 						],
 						"settings":
@@ -919,7 +921,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1475.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -991,7 +993,7 @@
 		"cols":
 		[
 			0.0,
-			0.657185106995,
+			0.820174603883,
 			1.0
 		],
 		"rows":
