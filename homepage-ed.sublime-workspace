@@ -520,14 +520,6 @@
 	"buffers":
 	[
 		{
-			"file": "index.html",
-			"settings":
-			{
-				"buffer_size": 7830,
-				"line_ending": "Unix"
-			}
-		},
-		{
 			"file": "style.less",
 			"settings":
 			{
@@ -676,6 +668,7 @@
 	},
 	"file_history":
 	[
+		"/Users/Yecol/Workspace/git-repo/homepage-ed/index.html",
 		"/Users/Yecol/Workspace/git-repo/homepage-ed/p/xu2012optimizing.bib",
 		"/Users/Yecol/Workspace/git-repo/homepage-ed/xu2012optimizing.html",
 		"/Users/Yecol/Workspace/git-repo/smartcity/assets/css/style.css",
@@ -892,40 +885,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "index.html",
-					"settings":
-					{
-						"buffer_size": 7830,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								7034,
-								7034
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 2155.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		},
 		{
@@ -933,7 +894,7 @@
 			"sheets":
 			[
 				{
-					"buffer": 1,
+					"buffer": 0,
 					"file": "style.less",
 					"settings":
 					{
