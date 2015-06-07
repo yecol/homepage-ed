@@ -520,18 +520,10 @@
 	"buffers":
 	[
 		{
-			"file": "dataset/index.html",
-			"settings":
-			{
-				"buffer_size": 0,
-				"line_ending": "Unix"
-			}
-		},
-		{
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 7831,
+				"buffer_size": 8227,
 				"line_ending": "Unix"
 			}
 		},
@@ -684,6 +676,7 @@
 	},
 	"file_history":
 	[
+		"/Users/Yecol/Workspace/git-repo/homepage-ed/dataset/index.html",
 		"/Users/Yecol/Workspace/git-repo/homepage-ed/index.html",
 		"/Users/Yecol/Workspace/git-repo/homepage-ed/p/xu2012optimizing.bib",
 		"/Users/Yecol/Workspace/git-repo/homepage-ed/xu2012optimizing.html",
@@ -778,6 +771,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"li",
 			"photo",
 			"jpg",
 			"nav",
@@ -906,45 +900,18 @@
 			[
 				{
 					"buffer": 0,
-					"file": "dataset/index.html",
-					"settings":
-					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 7831,
+						"buffer_size": 8227,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2030,
-								2030
+								4329,
+								4329
 							]
 						],
 						"settings":
@@ -957,7 +924,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 364.0,
+						"translation.y": 1159.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -969,7 +936,7 @@
 			"sheets":
 			[
 				{
-					"buffer": 2,
+					"buffer": 1,
 					"file": "style.less",
 					"settings":
 					{
@@ -980,8 +947,8 @@
 						"selection":
 						[
 							[
-								880,
-								880
+								2038,
+								2038
 							]
 						],
 						"settings":
@@ -993,7 +960,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 490.0,
+						"translation.y": 1938.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -1029,7 +996,7 @@
 		"cols":
 		[
 			0.0,
-			0.820174603883,
+			0.509473748074,
 			1.0
 		],
 		"rows":
