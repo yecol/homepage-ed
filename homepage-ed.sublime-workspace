@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"back",
+				"background"
+			],
+			[
 				"padd",
 				"padding-top"
 			],
@@ -14,10 +18,6 @@
 			[
 				"bor",
 				"border"
-			],
-			[
-				"back",
-				"background-size"
 			],
 			[
 				"bxs",
@@ -523,7 +523,23 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 8265,
+				"buffer_size": 8294,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "new.html",
+			"settings":
+			{
+				"buffer_size": 8784,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Yecol/Workspace/git-repo/yecols.cn/index.html",
+			"settings":
+			{
+				"buffer_size": 11916,
 				"line_ending": "Unix"
 			}
 		},
@@ -531,7 +547,7 @@
 			"file": "style.less",
 			"settings":
 			{
-				"buffer_size": 2572,
+				"buffer_size": 3092,
 				"line_ending": "Unix"
 			}
 		}
@@ -895,7 +911,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -903,15 +919,15 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 8265,
+						"buffer_size": 8294,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								7273,
-								7273
+								589,
+								589
 							]
 						],
 						"settings":
@@ -924,7 +940,69 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1503.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "new.html",
+					"settings":
+					{
+						"buffer_size": 8784,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5650,
+								5650
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1611.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/Yecol/Workspace/git-repo/yecols.cn/index.html",
+					"settings":
+					{
+						"buffer_size": 11916,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2317,
+								1083
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -936,19 +1014,19 @@
 			"sheets":
 			[
 				{
-					"buffer": 1,
+					"buffer": 3,
 					"file": "style.less",
 					"settings":
 					{
-						"buffer_size": 2572,
+						"buffer_size": 3092,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2038,
-								2038
+								1898,
+								1898
 							]
 						],
 						"settings":
@@ -960,7 +1038,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 1938.0,
+						"translation.y": 1714.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -996,7 +1074,7 @@
 		"cols":
 		[
 			0.0,
-			0.851528338323,
+			0.928226989775,
 			1.0
 		],
 		"rows":

@@ -137,7 +137,7 @@ h2 {
   border-bottom: 1px solid #ccc;
 }
 .sec-pub {
-  border-bottom: 1px solid #ccc;
+  border-bottom: 1px solid #eee;
   padding-bottom: 20px;
 }
 .sec-pub h4 {
@@ -185,4 +185,29 @@ h2 {
   display: block;
   width: 180px;
   border-bottom: solid 1px #eee;
+}
+.menu-bar {
+  width: 100%;
+  background-color: rgba(255, 255, 255, 0.9);
+  height: 60px;
+  border-bottom: solid rgba(229, 229, 229, 0.9) 1px;
+}
+.menu-bar .main-menu {
+  width: 960px;
+  margin: 13px auto 0 auto;
+  text-align: center;
+  list-style-type: none;
+}
+.menu-bar .main-menu li {
+  display: table-cell;
+}
+.menu-bar .main-menu a,
+.menu-bar .main-menu a:hover,
+.menu-bar .main-menu a:active {
+  font-family: "Helvetica";
+  color: #00325f;
+  text-decoration: none;
+  font-size: 14px;
+  padding-right: 40px;
+  padding-left: 40px;
 }
