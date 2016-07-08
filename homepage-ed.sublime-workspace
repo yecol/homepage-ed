@@ -523,23 +523,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 8294,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "new.html",
-			"settings":
-			{
-				"buffer_size": 8784,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/Yecol/Workspace/git-repo/yecols.cn/index.html",
-			"settings":
-			{
-				"buffer_size": 11916,
+				"buffer_size": 9136,
 				"line_ending": "Unix"
 			}
 		},
@@ -553,9 +537,14 @@
 		}
 	],
 	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
 	"command_palette":
 	{
 		"height": 392.0,
+		"last_filter": "",
 		"selected_items":
 		[
 			[
@@ -679,7 +668,11 @@
 	},
 	"console":
 	{
-		"height": 125.0
+		"height": 125.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
 	},
 	"distraction_free":
 	{
@@ -690,8 +683,14 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/Users/Yecol/Workspace/git-repo/homepage-ed"
+	],
 	"file_history":
 	[
+		"/Users/Yecol/Workspace/git-repo/yecols.cn/index.html",
+		"/Users/Yecol/Workspace/git-repo/homepage-ed/new.html",
 		"/Users/Yecol/Workspace/git-repo/homepage-ed/dataset/index.html",
 		"/Users/Yecol/Workspace/git-repo/homepage-ed/index.html",
 		"/Users/Yecol/Workspace/git-repo/homepage-ed/p/xu2012optimizing.bib",
@@ -716,7 +715,6 @@
 		"/Users/Yecol/Workspace/git-repo/smartcity/untitled folder/style.less",
 		"/Users/Yecol/Workspace/git-repo/levinsu/inc/index.tpl",
 		"/Users/Yecol/Workspace/git-repo/levinsu/inc/single.tpl",
-		"/Users/Yecol/Workspace/git-repo/yecols.cn/index.html",
 		"/Users/Yecol/Workspace/git-repo/yecols.cn/assets/css/style.less",
 		"/Users/Yecol/Workspace/git-repo/yecols.cn/mobile.html",
 		"/Users/Yecol/Workspace/git-repo/yecols.cn/inc/page/about.html",
@@ -911,23 +909,24 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
 					"file": "index.html",
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 8294,
+						"buffer_size": 9136,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								589,
-								589
+								3611,
+								3611
 							]
 						],
 						"settings":
@@ -940,71 +939,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1606.0,
 						"zoom_level": 1.0
 					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "new.html",
-					"settings":
-					{
-						"buffer_size": 8784,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								5650,
-								5650
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1611.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "/Users/Yecol/Workspace/git-repo/yecols.cn/index.html",
-					"settings":
-					{
-						"buffer_size": 11916,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2317,
-								1083
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
@@ -1014,8 +952,9 @@
 			"sheets":
 			[
 				{
-					"buffer": 3,
+					"buffer": 1,
 					"file": "style.less",
+					"semi_transient": false,
 					"settings":
 					{
 						"buffer_size": 3092,
@@ -1041,6 +980,7 @@
 						"translation.y": 1714.0,
 						"zoom_level": 1.0
 					},
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
@@ -1088,6 +1028,10 @@
 	{
 		"height": 213.0
 	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
 	"output.git":
 	{
 		"height": 161.0
@@ -1096,6 +1040,8 @@
 	{
 		"height": 135.0
 	},
+	"pinned_build_system": "",
+	"project": "homepage-ed.sublime-project",
 	"replace":
 	{
 		"height": 62.0
@@ -1104,6 +1050,7 @@
 	"select_file":
 	{
 		"height": 0.0,
+		"last_filter": "",
 		"selected_items":
 		[
 		],
@@ -1112,15 +1059,32 @@
 	"select_project":
 	{
 		"height": 500.0,
+		"last_filter": "",
 		"selected_items":
 		[
 		],
 		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
 	},
 	"show_minimap": true,
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
 	"side_bar_width": 235.0,
-	"status_bar_visible": true
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
 }
