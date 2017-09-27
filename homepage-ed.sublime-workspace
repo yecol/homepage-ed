@@ -133,7 +133,7 @@
 			],
 			[
 				"w",
-				"width	.width()"
+				"width\t.width()"
 			],
 			[
 				"paddi",
@@ -201,7 +201,7 @@
 			],
 			[
 				"out",
-				"outerHeight	.outerHeight"
+				"outerHeight\t.outerHeight"
 			],
 			[
 				"par",
@@ -225,7 +225,7 @@
 			],
 			[
 				"css",
-				"css	.css() - single"
+				"css\t.css() - single"
 			],
 			[
 				"le",
@@ -325,7 +325,7 @@
 			],
 			[
 				"if",
-				"if	If Condition"
+				"if\tIf Condition"
 			],
 			[
 				"y-gr",
@@ -449,7 +449,7 @@
 			],
 			[
 				"to",
-				"toggle	.toggle() (show/hide)"
+				"toggle\t.toggle() (show/hide)"
 			],
 			[
 				"backr",
@@ -457,7 +457,7 @@
 			],
 			[
 				"anima",
-				"animate	animate"
+				"animate\tanimate"
 			],
 			[
 				"margi",
@@ -523,7 +523,8 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 9915,
+				"buffer_size": 10610,
+				"encoding": "UTF-8 with BOM",
 				"line_ending": "Unix"
 			}
 		},
@@ -685,10 +686,12 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/Yecol/Workspace/git-repo/homepage-ed"
+		"/Users/Yecol/Workspace/git-repo/homepage-ed",
+		"/Users/Yecol/Workspace/git-repo/homepage-ed/publication"
 	],
 	"file_history":
 	[
+		"/Users/Yecol/Workspace/git-repo/homepage-ed/publication/fan2017parallelizing.bib",
 		"/Users/Yecol/Workspace/git-repo/yecols.cn/index.html",
 		"/Users/Yecol/Workspace/git-repo/homepage-ed/new.html",
 		"/Users/Yecol/Workspace/git-repo/homepage-ed/dataset/index.html",
@@ -918,15 +921,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 9915,
+						"buffer_size": 10610,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3967,
-								3967
+								9334,
+								9334
 							]
 						],
 						"settings":
@@ -939,7 +942,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 943.0,
+						"translation.y": 2492.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -977,7 +980,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 1782.0,
+						"translation.y": 1850.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
