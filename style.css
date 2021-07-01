@@ -9,7 +9,7 @@ body a {
   text-decoration: none;
 }
 body a:hover {
-  color: #c10043;
+  color: #ff6a00;
   text-decoration: underline;
 }
 #wrap {
@@ -18,6 +18,13 @@ body a:hover {
   margin: 0 auto 0 auto;
   padding-top: 150px;
   background-size: 400px 80px;
+}
+#wrap-ali {
+  background: url("alibaba.png") right 30px no-repeat;
+  width: 1000px;
+  margin: 0 auto 0 auto;
+  padding-top: 150px;
+  background-size: 250px;
 }
 hr {
   margin-top: 20px;
@@ -118,12 +125,12 @@ h2 {
   color: black;
 }
 .sec-f {
-  width: 1010px;
+  width: 1000px;
   margin-bottom: 50px;
   padding-left: 15px;
 }
 .sec {
-  width: 1010px;
+  width: 1000px;
   margin-bottom: 50px;
   padding: 0 0 0 30px;
 }
@@ -211,7 +218,7 @@ h2 {
   padding-right: 40px;
   padding-left: 40px;
 }
-.highlight{
+.highlight {
   color: #c10043;
   font-weight: bold;
 }
