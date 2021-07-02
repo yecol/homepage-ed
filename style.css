@@ -62,7 +62,7 @@ h2 {
 }
 .info {
   width: 1000px;
-  margin-bottom: 80px;
+  margin-bottom: 50px;
 }
 .info:before,
 .info:after {
@@ -127,12 +127,11 @@ h2 {
 .sec-f {
   width: 1000px;
   margin-bottom: 50px;
-  padding-left: 15px;
 }
 .sec {
   width: 1000px;
   margin-bottom: 50px;
-  padding: 0 0 0 30px;
+  padding: 0 15px 0 15px;
 }
 .sec h3 {
   color: #666;
@@ -142,6 +141,10 @@ h2 {
   margin-bottom: 0;
   padding-bottom: 10px;
   border-bottom: 1px solid #ccc;
+}
+.sec .small {
+  font-size: 18px;
+  font-weight: normal;
 }
 .sec-pub {
   border-bottom: 1px solid #eee;
